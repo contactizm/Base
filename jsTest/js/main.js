@@ -1,2 +1,2 @@
-// Instantitae your "database"
-var c = new pseudoDb();
+// Instantiate your "database"
+var clientDatabase = new DB({});
