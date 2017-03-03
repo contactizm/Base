@@ -1,12 +1,10 @@
-// Sherpaa front end engineer code test.
+// front end engineer code test.
 
 Thanks for completing this exercise!  The test is designed so that you should be able to
 finish the primary tasks in about 1.5 hours, and then there are some extra tasks you may do if you wish. The supplementary tasks
 will allow you to illustrate how you might add polish and elegance to a UI.
 
 You may use any framework or library as you see fit.
-
-Feel free to call or email me if you have any questions 864.680.7122 -- joey@sherpaa.com
 
 Please work in the files I've provided for you (index.html, main.js, pseudoDb.js) and when you're finished, send the modified files
 back to me as a .zip or other compressed file type.
